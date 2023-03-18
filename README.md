@@ -16,6 +16,6 @@ const marlisa = {
 }
 ```
 
-<p>Have something interesting you're working on? I would love to chat!</p>
+<p>Have something interesting you're working on? Let's chat!</p>
 
 [![Linkedin: marlisarebaum](https://img.shields.io/static/v1?label=&message=marlisarebaum&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/marlisarebaum/)
