@@ -1,7 +1,8 @@
-<h2><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30"> Hi, I'm Marlisa Rebaum!</h2>
+## <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30"> Hi, I'm Marlisa Rebaum!
+
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODIwYzFkZmMzMzEyZDk1NmM4YjliNzA4YmZhN2NiMTZiOTY5MzhiZSZjdD1z/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="230">
 
-<p>Full-Stack Web Developer at DKW Communications.</p>
+Full-Stack Web Developer at DKW Communications.
 
 ### A little about me...  
 
