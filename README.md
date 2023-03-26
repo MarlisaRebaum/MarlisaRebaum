@@ -21,3 +21,4 @@ const marlisa = {
 ### Have something interesting you're working on? Let's chat!
 
 [![Linkedin: marlisarebaum](https://img.shields.io/static/v1?label=&message=marlisarebaum&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/marlisarebaum/)
+[![My Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&style=for-the-badge&labelColor=9cf&color=9cf)](https://marlisarebaum.web.app/)
