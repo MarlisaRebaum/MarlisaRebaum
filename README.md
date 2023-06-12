@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODIwYzFkZmMzMzEyZDk1NmM4YjliNzA4YmZhN2NiMTZiOTY5MzhiZSZjdD1z/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="230">
 
-Frontend Web Developer at DKW Communications.
+Full-Stack Web Developer at DKW Communications.
 
 ### A little about me...  
 
@@ -14,7 +14,7 @@ const marlisa = {
   programmingLanguages: [CSS, HTML, JavaScript, PHP, Python, TypeScript],
   tools: [Firebase, Github, Heroku],
   languages: [English, German, Spanish],
-  funFact: "I have a 1,106-day streak on Duolingo!🤓"
+  funFact: "I have a 1,107-day streak on Duolingo!🤓"
 }
 ```
 
