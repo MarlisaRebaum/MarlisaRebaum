@@ -11,10 +11,10 @@ const marlisa = {
   pronouns: "she" | "her",
   databases: [Microsoft SQL, NoSQL, PostgreSQL],
   frameworks: [Bootstrap, Flask, JSON, Node.js, React, Redux, REST API’s, Vue.js],
-  programmingLanguages: [CSS, HTML, JavaScript, PHP, Python, TypeScript],
+  programmingLanguages: [CSS, HTML, JavaScript, Python],
   tools: [Firebase, Github, Heroku],
   languages: [English, German, Spanish],
-  funFact: "I have a 1,117-day streak on Duolingo!🤓"
+  funFact: "I have a 1,118-day streak on Duolingo!🤓"
 }
 ```
 
