@@ -14,7 +14,7 @@ const marlisa = {
   programmingLanguages: [CSS, HTML, JavaScript, Python],
   tools: [Firebase, Github, Heroku],
   languages: [English, German, Spanish],
-  funFact: "I have a 1,120-day streak on Duolingo!🤓"
+  funFact: "I have a 1,121-day streak on Duolingo!🤓"
 }
 ```
 
